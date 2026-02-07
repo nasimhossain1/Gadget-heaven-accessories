@@ -1,0 +1,137 @@
+[
+  {
+    "product_id": "P-1001",
+    "product_title": "Dell XPS 13",
+    "product_image": "https://i.ibb.co/7Nq6nXq/laptop1.png",
+    "category": "Laptops",
+    "price": 99.99,
+    "description": "Ultra-slim, high-performance laptop with 13.4-inch InfinityEdge display.",
+    "Specification": ["Intel i7 11th Gen", "16GB RAM", "512GB SSD", "Touchscreen"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P-1002",
+    "product_title": "MacBook Air M2",
+    "product_image": "https://i.ibb.co/9hH9m6h/laptop2.png",
+    "category": "Laptops",
+    "price": 249.99,
+    "description": "Lightweight laptop powered by Apple M2 chip for everyday productivity.",
+    "Specification": ["Apple M2", "8GB RAM", "256GB SSD", "Retina Display"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P-1003",
+    "product_title": "HP Spectre x360",
+    "product_image": "https://i.ibb.co/7b7HnWw/laptop3.png",
+    "category": "Laptops",
+    "price": 349.99,
+    "description": "Premium 2-in-1 laptop with OLED display and sleek build quality.",
+    "Specification": ["Intel i7 12th Gen", "16GB RAM", "1TB SSD", "OLED Touch"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P-1004",
+    "product_title": "Lenovo ThinkPad X1 Carbon",
+    "product_image": "https://i.ibb.co/F0VdJ7p/laptop4.png",
+    "category": "Laptops",
+    "price": 449.99,
+    "description": "Business-class laptop with exceptional keyboard and durability.",
+    "Specification": ["Intel i7", "16GB RAM", "512GB SSD", "Military Grade Build"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P-1005",
+    "product_title": "Asus ROG Zephyrus",
+    "product_image": "https://i.ibb.co/1d2fJtQ/laptop5.png",
+    "category": "Laptops",
+    "price": 499.99,
+    "description": "Gaming laptop with powerful GPU and high refresh-rate screen.",
+    "Specification": ["Ryzen 7", "16GB RAM", "1TB SSD", "RTX Graphics"],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P-1006",
+    "product_title": "Acer Swift 3",
+    "product_image": "https://i.ibb.co/5xF0zjY/laptop6.png",
+    "category": "Laptops",
+    "price": 199.99,
+    "description": "Affordable ultrabook for students and office work.",
+    "Specification": ["Intel i5", "8GB RAM", "512GB SSD", "Full HD Display"],
+    "availability": true,
+    "rating": 4.2
+  },
+
+  {
+    "product_id": "P-2001",
+    "product_title": "Samsung Galaxy S23 Ultra",
+    "product_image": "https://i.ibb.co/0cYtF2Q/phone1.png",
+    "category": "Phones",
+    "price": 999.99,
+    "description": "Flagship phone with pro camera system and premium performance.",
+    "Specification": ["Snapdragon 8 Gen 2", "12GB RAM", "256GB Storage", "200MP Camera"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "P-2002",
+    "product_title": "iPhone 15 Pro",
+    "product_image": "https://i.ibb.co/Dz2t6fG/phone2.png",
+    "category": "Phones",
+    "price": 899.99,
+    "description": "Premium iPhone with powerful chip and stunning display.",
+    "Specification": ["A17 Pro Chip", "8GB RAM", "256GB Storage", "ProMotion Display"],
+    "availability": true,
+    "rating": 4.8
+  },
+
+  {
+    "product_id": "P-3001",
+    "product_title": "Apple Watch Series 9",
+    "product_image": "https://i.ibb.co/8z1m1q0/watch1.png",
+    "category": "Smart Watches",
+    "price": 299.99,
+    "description": "Smartwatch with health tracking and smooth performance.",
+    "Specification": ["ECG", "Blood Oxygen", "GPS", "Always-On Display"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P-3002",
+    "product_title": "Samsung Galaxy Watch 6",
+    "product_image": "https://i.ibb.co/3B4s0q1/watch2.png",
+    "category": "Smart Watches",
+    "price": 279.99,
+    "description": "WearOS smartwatch with fitness tracking and AMOLED display.",
+    "Specification": ["WearOS", "Heart Rate", "GPS", "AMOLED Display"],
+    "availability": false,
+    "rating": 4.3
+  },
+
+  {
+    "product_id": "P-4001",
+    "product_title": "Anker Fast Charger 65W",
+    "product_image": "https://i.ibb.co/3R5Y4r8/charger1.png",
+    "category": "Chargers",
+    "price": 79.99,
+    "description": "Fast charging adapter with multiple ports and compact design.",
+    "Specification": ["65W Output", "USB-C", "USB-A", "GaN Tech"],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P-5001",
+    "product_title": "Xiaomi Power Bank 20000mAh",
+    "product_image": "https://i.ibb.co/qyYxP1J/powerbank1.png",
+    "category": "Power Banks",
+    "price": 69.99,
+    "description": "High capacity power bank for travel and heavy usage.",
+    "Specification": ["20000mAh", "Fast Charge", "Dual Output", "LED Indicator"],
+    "availability": true,
+    "rating": 4.2
+  }
+]
