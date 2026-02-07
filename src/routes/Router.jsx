@@ -18,23 +18,24 @@ export const router = createBrowserRouter([
         path: "/",
         element: <Home />,
         children: [
-          { path: "/category/:categoryName", element: <CategoryGadgets /> }
+          { index: true, element: <CategoryGadgets /> },
+          { path: "category/:categoryName", element: <CategoryGadgets /> }
         ]
       },
       {
-        path: "/details/:id",
+        path: "details/:id",
         element: <ProductDetails />
       },
       {
-        path: "/dashboard",
+        path: "dashboard",
         element: <Dashboard />
       },
       {
-        path: "/statistics",
+        path: "statistics",
         element: <Statistics />
       },
       {
-        path: "/about",
+        path: "about",
         element: <About />
       }
     ]
