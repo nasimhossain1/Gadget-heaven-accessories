@@ -1,6 +1,6 @@
 import { NavLink, useLocation } from "react-router-dom";
 import { FaShoppingCart, FaHeart } from "react-icons/fa";
-import logo from "../assets/Banner.jpg"
+
 
 const Navbar = () => {
   const location = useLocation();
