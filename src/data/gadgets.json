@@ -2,7 +2,7 @@
   {
     "product_id": "P-1001",
     "product_title": "Dell XPS 13",
-    "product_image": "https://i.ibb.co/7Nq6nXq/laptop1.png",
+    "product_image": "https://www.custommacbd.com/cdn/shop/products/93002_19e7b507-89a4-4aef-ae25-b01a1f2f20a9.jpg?v=1613634807",
     "category": "Laptops",
     "price": 99.99,
     "description": "Ultra-slim, high-performance laptop with 13.4-inch InfinityEdge display.",
@@ -13,7 +13,7 @@
   {
     "product_id": "P-1002",
     "product_title": "MacBook Air M2",
-    "product_image": "https://i.ibb.co/9hH9m6h/laptop2.png",
+    "product_image": "https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg",
     "category": "Laptops",
     "price": 249.99,
     "description": "Lightweight laptop powered by Apple M2 chip for everyday productivity.",
@@ -24,7 +24,7 @@
   {
     "product_id": "P-1003",
     "product_title": "HP Spectre x360",
-    "product_image": "https://i.ibb.co/7b7HnWw/laptop3.png",
+    "product_image": "https://img-cdn.tnwcdn.com/image?fit=1280%2C720&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FHP-Spectre-x360-14-1-of-7.jpg&signature=b273734ba382a58d403431a960fd1708",
     "category": "Laptops",
     "price": 349.99,
     "description": "Premium 2-in-1 laptop with OLED display and sleek build quality.",
@@ -35,7 +35,7 @@
   {
     "product_id": "P-1004",
     "product_title": "Lenovo ThinkPad X1 Carbon",
-    "product_image": "https://i.ibb.co/F0VdJ7p/laptop4.png",
+    "product_image": "https://p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8Mjk0NzU4fGltYWdlL3BuZ3xoYTIvaDZjLzE0NDQ3MTYzNzM2MDk0LnBuZ3xiMThiNWJlY2NjODExN2U0M2E4ZDE2NGNmMTM2NTExMWZkNzYwMzE4YTBmNDE5YzFiNThhODc2ZDEzYTMwZWQ5/lenovo-laptops-x1-carbon-6th-gen-hero.png",
     "category": "Laptops",
     "price": 449.99,
     "description": "Business-class laptop with exceptional keyboard and durability.",
@@ -46,7 +46,7 @@
   {
     "product_id": "P-1005",
     "product_title": "Asus ROG Zephyrus",
-    "product_image": "https://i.ibb.co/1d2fJtQ/laptop5.png",
+    "product_image": "https://www.ryans.com/storage/products/main/asus-rog-zephyrus-g16-gu605cr-intel-core-ultra-9-31752582971.webp",
     "category": "Laptops",
     "price": 499.99,
     "description": "Gaming laptop with powerful GPU and high refresh-rate screen.",
@@ -57,7 +57,7 @@
   {
     "product_id": "P-1006",
     "product_title": "Acer Swift 3",
-    "product_image": "https://i.ibb.co/5xF0zjY/laptop6.png",
+    "product_image": "https://mcsolution.com.bd/wp-content/uploads/2022/03/Acer-Swift-3-1200x900.webp",
     "category": "Laptops",
     "price": 199.99,
     "description": "Affordable ultrabook for students and office work.",
@@ -69,7 +69,7 @@
   {
     "product_id": "P-2001",
     "product_title": "Samsung Galaxy S23 Ultra",
-    "product_image": "https://i.ibb.co/0cYtF2Q/phone1.png",
+    "product_image": "https://www.gsmarena.com.bd/images/products/Samsung-Galaxy-S23-Ultra-Green.jpg",
     "category": "Phones",
     "price": 999.99,
     "description": "Flagship phone with pro camera system and premium performance.",
@@ -80,7 +80,7 @@
   {
     "product_id": "P-2002",
     "product_title": "iPhone 15 Pro",
-    "product_image": "https://i.ibb.co/Dz2t6fG/phone2.png",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2o8bIEBc7Y7SFSiHrhypGilkkdJL_Zl6SqQ&s",
     "category": "Phones",
     "price": 899.99,
     "description": "Premium iPhone with powerful chip and stunning display.",
@@ -92,7 +92,7 @@
   {
     "product_id": "P-3001",
     "product_title": "Apple Watch Series 9",
-    "product_image": "https://i.ibb.co/8z1m1q0/watch1.png",
+    "product_image": "https://www.custommacbd.com/cdn/shop/files/Watch-s9-midnight-Custom-Mac-BD.jpg?v=1696082496",
     "category": "Smart Watches",
     "price": 299.99,
     "description": "Smartwatch with health tracking and smooth performance.",

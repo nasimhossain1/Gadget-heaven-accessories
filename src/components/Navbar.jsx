@@ -1,5 +1,6 @@
 import { NavLink, useLocation } from "react-router-dom";
 import { FaShoppingCart, FaHeart } from "react-icons/fa";
+import logo from "../assets/Banner.jpg"
 
 const Navbar = () => {
   const location = useLocation();
@@ -22,7 +23,7 @@ const Navbar = () => {
         </NavLink>
 
         {/* Menu */}
-        <div className="flex items-center gap-6">
+        <div className="flex items-center gap-6 ">
           <NavLink to="/" className={navLinkStyle}>
             Home
           </NavLink>
@@ -36,6 +37,7 @@ const Navbar = () => {
             About
           </NavLink>
         </div>
+        
 
         {/* Icons (no count) */}
         <div className="flex items-center gap-3">
@@ -54,6 +56,7 @@ const Navbar = () => {
         </div>
       </div>
     </div>
+    
   );
 };
 
